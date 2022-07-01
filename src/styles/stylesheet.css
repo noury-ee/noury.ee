@@ -38,11 +38,14 @@ a:hover {
 }
 
 h1,
-h2,
 br,
 header,
 ul {
   margin-bottom: 1em;
+}
+
+h2 {
+  margin-bottom: 0.3em;
 }
 
 ul {
@@ -79,4 +82,11 @@ header > a {
 
 nav a {
   margin-left: 0.75em;
+}
+
+footer {
+  max-width: 36em;
+  margin: 0 auto;
+  padding: 0 0.7em;
+  text-align: center;
 }
