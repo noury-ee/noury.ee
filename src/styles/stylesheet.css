@@ -1,17 +1,10 @@
 * {
   margin: 0;
-  --tc: #111;
-  --bc: #fff;
-  --hc: #273;
+  --tc: #fff;
+  --bc: #111;
+  --hc: #fb0;
 }
 
-@media (prefers-color-scheme: dark) {
-  * {
-    --tc: #fff;
-    --bc: #111;
-    --hc: #fb0;
-  }
-}
 
 body {
   font: 18px -apple-system, BlinkMacSystemFont, sans-serif;
