@@ -2,7 +2,7 @@
   "name": "cdk",
   "version": "0.1.0",
   "bin": {
-    "cdk": "bin/cdk.js"
+    "cdk": "bin/cdk.js"https://github.com/noury-ee/noury.ee/pulls?q=is%3Apr+is%3Aopen+sort%3Aupdated-desc
   },
   "scripts": {
     "build": "tsc",
@@ -23,7 +23,7 @@
     "typescript": "^4.8.4"
   },
   "dependencies": {
-    "aws-cdk-lib": "^2.45.0",
+    "aws-cdk-lib": "^2.46.0",
     "constructs": "^10.1.131",
     "source-map-support": "^0.5.16"
   }
